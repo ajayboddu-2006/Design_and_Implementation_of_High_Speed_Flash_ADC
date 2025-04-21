@@ -20,12 +20,6 @@ This project demonstrates the design of a high-speed Flash ADC using both **anal
 
 Selected for the **FOSSEE Summer Fellowship 2025 at IIT Bombay** based on this project, to further contribute to open-source EDA development and migration efforts.
 
-## Contents
-
-- `schematics/` – eSIM analog design files  
-- `verilog/` – Verilog code for the priority encoder  
-- `simulations/` – Co-simulation outputs and test cases  
-- `docs/` – Report and related documentation
 
 ## Contact
 
